@@ -1,0 +1,116 @@
+ [
+    {
+      "id": "001",
+      "company_logo": "../src/assets/Logo/google-1-1 1-1.png",
+      "job_title": "Technical Database Engineer",
+      "company_name": "Google LLC",
+      "remote_or_onsite": "Remote",
+      "location": "Dhaka, Bangladesh",
+      "fulltime_or_parttime": "Full Time",
+      "salary": "100K - 150K",
+      "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": " Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "educational_requirements": "Bachelor's or Master's degree in Computer Science or related field.",
+      "experiences": "At least 3 years of professional experience in software development.",
+      "contact_information": {
+        "phone": "(555) 555-5555",
+        "email": "jobs@pqrcreative.com",
+        "address": "Dhanmondi 32, Sukrabad,Dhaka, Bangladesh"
+      }
+    },
+    {
+      "id": "002",
+      "company_logo": "../src/assets/Logo/netflix-4 1.png",
+      "job_title": "Senior Product Designer",
+      "company_name": "Netflix",
+      "remote_or_onsite": "Onsite",
+      "location": "Dhaka, Bangladesh",
+      "fulltime_or_parttime": "Full Time",
+      "salary": " 100K - 150K",
+      "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": " Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "educational_requirements": "Bachelor's or Master's degree in Marketing or related field.",
+      "experiences": "At least 5 years of professional experience in marketing, with a proven track record of success.",
+      "contact_information": {
+        "phone": "(555) 555-5555",
+        "email": "jobs@pqrcreative.com",
+        "address": "Dhanmondi 32, Sukrabad,Dhaka, Bangladesh"
+      }
+    },
+    {
+      "id": "003",
+      "company_logo": "../src/assets/Logo/tesla-9 1.png",
+      "job_title": "Software Engineer",
+      "company_name": "Tesla",
+      "remote_or_onsite": "Onsite",
+      "location": "Dhaka, Bangladesh",
+      "fulltime_or_parttime": "Full Time",
+      "salary": " 100K - 150K",
+      "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": " Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "educational_requirements": "Bachelor's or Master's degree in Graphic Design or related field.",
+      "experiences": "At least 2 years of professional experience in graphic design.",
+      "contact_information": {
+        "phone": "(555) 555-5555",
+        "email": "jobs@pqrcreative.com",
+        "address": "Dhanmondi 32, Sukrabad,Dhaka, Bangladesh"
+      }
+    },
+    {
+      "id": "004",
+      "company_logo": "../src/assets/Logo/google-1-1 1.png",
+      "job_title": "Technical Database Engineer",
+      "company_name": "Google LLC",
+      "remote_or_onsite": "Remote",
+      "location": "Dhaka, Bangladesh",
+      "fulltime_or_parttime": "Full Time",
+      "salary": " 100K - 150K",
+      "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": " Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "educational_requirements": "Bachelor's or Master's degree in Graphic Design or related field.",
+      "experiences": "At least 2 years of professional experience in graphic design.",
+      "contact_information": {
+        "phone": "(555) 555-5555",
+        "email": "jobs@pqrcreative.com",
+        "address": "Dhanmondi 32, Sukrabad,Dhaka, Bangladesh"
+      }
+    },
+    {
+      "id": "005",
+      "company_logo": "../src/assets/Logo/tesla-9 1.png",
+      "job_title": "Software Engineer",
+      "company_name": "Tesla",
+      "remote_or_onsite": "Onsite",
+      "location": "Dhaka, Bangladesh",
+      "fulltime_or_parttime": "Full Time",
+      "salary": " 100K - 150K",
+      "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": " Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "educational_requirements": "Bachelor's or Master's degree in Graphic Design or related field.",
+      "experiences": "At least 2 years of professional experience in graphic design.",
+      "contact_information": {
+        "phone": "(555) 555-5555",
+        "email": "jobs@pqrcreative.com",
+        "address": "Dhanmondi 32, Sukrabad,Dhaka, Bangladesh"
+      }
+    },
+    {
+      "id": "006",
+      "company_logo": "../src/assets/Logo/google-1-1 1.png",
+      "job_title": "Technical Database Engineer",
+      "company_name": "Google LLC",
+      "remote_or_onsite": "Remote",
+      "location": "Dhaka, Bangladesh",
+      "fulltime_or_parttime": "Full Time",
+      "salary": " 100K - 150K",
+      "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": " Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "educational_requirements": "Bachelor's or Master's degree in Graphic Design or related field.",
+      "experiences": "At least 2 years of professional experience in graphic design.",
+      "contact_information": {
+        "phone": "(555) 555-5555",
+        "email": "jobs@pqrcreative.com",
+        "address": "Dhanmondi 32, Sukrabad,Dhaka, Bangladesh"
+      }
+    }
+  ]

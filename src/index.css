@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.my-btn{
+    @apply bg-indigo-400 font-semibold rounded text-white py-3 px-4 
+}
